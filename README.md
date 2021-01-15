@@ -1,7 +1,7 @@
 # Individual-Projects
 This is a collection of projects that I have undertaken in my free time. I will routinely include new projects that I find interesting.
 
-For the most part, this code is open source unless I specify differently in the future (be sure to check the license as well when copying code). I may also routinely
+This code is under the Creative Commons License unless I change the license in the future (be sure to review the license when copying code). I may also routinely
 place code in the READ ME section (with explanation of code functionality) if I think it can help others with unique issues.
 
 # Social Science Survey description:
