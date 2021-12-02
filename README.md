@@ -26,4 +26,7 @@ rot13("SERR YBIR?") should decode to the string FREE LOVE?
 
 rot13("GUR DHVPX OEBJA SBK WHZCF BIRE GUR YNML QBT.") should decode to the string THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG.
 
+#NYPD Year to Date Arrests
+Using a scatterplot, I believe that I was able to determine that many of the longitudinal and latitudinal points correlate and that arrests are concentrated near these areas. The literature would also appear to support this data.
+
 # Thank you for taking the time to read this.
