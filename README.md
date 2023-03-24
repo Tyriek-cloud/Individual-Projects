@@ -33,6 +33,6 @@ Using a scatterplot, I believe that I was able to determine that many of the lon
 Formulated a data visualization project that analyzed how race and sex were related to weapons possession in the 73rd precinct of the NYPD.
 
 # StatsModel Regression Analysis
-Designed a OLS Regression Model to observe statistical data about car crashes and resulting injuries.
+Designed an OLS Regression Model to observe statistical data about car crashes and resulting injuries.
 
 # Thank you for taking the time to read this.
