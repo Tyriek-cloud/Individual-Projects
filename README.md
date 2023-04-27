@@ -36,6 +36,6 @@ Formulated a data visualization project that analyzed how race and sex were rela
 Designed an OLS Regression Model to observe statistical data about car crashes and resulting injuries.
 
 # Dog Bite EDA & Logistic Regression
-Architected a statistical analysis project to determine relationships between age and zipcodes to dog bites.
+Architected a statistical analysis project to determine relationships between age and zip codes to dog bites.
 
 # Thank you for taking the time to read this.
